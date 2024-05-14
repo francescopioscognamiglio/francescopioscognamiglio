@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @francescopioscognamiglio
+- 👋 Hi, I’m [@francescopioscognamiglio](https://github.com/francescopioscognamiglio)
 - 🧠 I’m interested in IT
 - 🌱 I’m currently learning Java, Node, ...
 - 📚 I’m currently studying Computer Science at La Sapienza University in Rome

@@ -7,8 +7,8 @@
 - 📫 francescopio.scognamiglio@4science.com
 
 Certifications:
-- 👊 I have earned the Java SE 11 Developer certification from Oracle
-- 💪 I have earned the Professional Scrum Developer I certification from Scrum
+- 👊 I have earned the Java SE 11 Developer (OCP) certification from Oracle
+- 💪 I have earned the Professional Scrum Developer I (PSD) certification from Scrum
 <!---
 francescopioscognamiglio/francescopioscognamiglio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

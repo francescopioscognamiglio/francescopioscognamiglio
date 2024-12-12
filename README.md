@@ -6,6 +6,7 @@ About me:
 - So many things on my mind, but only 4️⃣2️⃣ to say.
 - 💻 The code says the truth, always!
 - 🎲 Board gamer.
+- 🔢 Sudoku enthusiast.
 - 🤟 Rock lover.
 
 My experience:
